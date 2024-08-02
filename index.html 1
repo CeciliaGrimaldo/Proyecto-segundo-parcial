@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+    <title>Mecánica</title>
+    <link rel="stylesheet" href="Stylo1.css">
+</head>
+<body>
+    <div class="container">
+        <header class="superior">
+            <div class="logo">
+<img src="imagenes/logo-blanco.png" alt="">
+            </div>
+            <nav class="menu">
+        <ul class="opciones">
+
+         <li><a href="">INICIO</a></li>
+         <li><a href="">NOSOTROS</a></li>  
+        <li><a href="">SERVICIOS</a></li> 
+        <li><a href="">NOTICIAS</a></li>
+         <li><a href="">CONTACTO</a></li>
+          </ul>
+            </nav>
+        </header>
+        <section class="slider">
+          <img src="imagenes/slider01.jpg" alt="" width="100%"> 
+        </section>
+        <section class="cuerpo">
+            <h1 class="titulo">
+               <center>Bienvenidos  a tu mecanica  de confiaza
+               </center>
+            </h1>
+            <article class="caja">
+           <div class="subtitulo">
+            <img src="imagenes/servicio01.jpg" alt="" class="efecto">
+           <h3 class="servicios">
+            SERVICIO 01
+           </h3>
+           </div> 
+           <div class="contenido">
+            <p>Lorem ipsum dlor sit amet, consectetur adipisicing elit.
+               Non eveniet, est modi laborum dolor accusantium, repellat voluptates 
+               autem laudan tium dolores veniam totam aperiiam nihil a repudiandae error.
+               Qui, consequatur, deserunt! </p>
+              <center><input type="submit" class="boton" value="ACCEDER"> 
+              </center> 
+            </div>
+            </article>
+            <article class="caja">
+                <div class="subtitulo">   
+                    <img src="imagenes/servicio02.jpg"alt="" class="efecto">  
+              <h3 class="servicios">
+             SERVICIO 02
+            </h3>
+                </div>
+                <div class="contenido">
+                    <p>Lorem ipsum dlor sit amet, consectetur adipisicing elit.
+                       Non eveniet, est modi laborum dolor accusantium, repellat voluptates 
+                       autem laudan tium dolores veniam totam aperiiam nihil a repudiandae error.
+                       Qui, consequatur, deserunt! </p>
+                    <center><input type="submit" class="boton" value="ACCEDER"> 
+                    </center> 
+                </div>  
+            </article>
+            <article class="caja">
+                <div class="subtitulo">
+                    <img src="imagenes/servicio03.jpg"alt="" class="efecto">
+                    <h3 class="servicios">
+                        SERVICIO 03
+                       </h3>
+                </div>
+<div class="contenido">
+    <p>Lorem ipsum dlor sit amet, consectetur adipisicing elit.
+       Non eveniet, est modi laborum dolor accusantium, repellat voluptates 
+       autem laudan tium dolores veniam totam aperiiam nihil a repudiandae error.
+       Qui, consequatur, deserunt! </p>
+       <center><input type="submit" class="boton" value="ACCEDER"> 
+       </center>
+</div>
+            </article>
+        </section>
+     <footer class="pie">
+      <div class="izquierda">
+<center><img src="imagenes/logo-blanco.png" alt=""></center>
+<p class="abajo"> Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+    Corrupti id veniam asperiores beatae consequuntur delectus nobis placeat 
+    accusamus voluptate est cumque alias ipsa, laborum quos modi quis architecto 
+    cupiditate debitis. </p>
+      </div>
+      <div class="derecha">
+<center><p class="siguenos">Siguenos</p></center>
+<center>
+    <img src="imagenes/twitter.png" alt="">
+    <img src="imagenes/instagram.png" alt="">
+    <img src="imagenes/behance.png" alt="">
+    <img src="imagenes/youtube.png" alt="">
+</center>
+      </div>
+     </footer>   
+    </div>
+</body>
+<p>
+    <nav class="regresar">
+        <ul>
+        <li><a href="Proyecto 2do parcial.html"><h3> Regresar</h3></a></li>
+        </ul>
+    </nav>
+</center>
+<p><br>
+                        </center>
