@@ -1,18 +1,17 @@
 *{
-    margin: 0px;
-    padding: 5px;
+    margin: 0 px;
+    padding: 5  px;
 }
-
 #tituloP{
-    color:rgb(245, 245, 241);
+    color: rgb (245, 245, 241);
     font-family: Verdana;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 50 px;
 }
 
 nav{
-    width: 300px;
-    border: 0px solid black;
+    width: 300 px;
+    border: 0 px solid black;
 }
 
 .menu{
@@ -22,14 +21,14 @@ nav{
 }
 
 .menu li{
-    margin-bottom: 1px;
+    margin-bottom: 1 px;
 }
 
 .menu a{
     color: white;
     background-color: #333;
     text-decoration: none;
-    padding: 15px;
+    padding: 15 px;
     display: block;
 }
 
@@ -40,7 +39,7 @@ nav{
 footer{
     color: white;
     font-family: Verdana;
-    font-size: 10px;
+    font-size: 10 px;
     align-items: middle;
 }
 
@@ -52,14 +51,14 @@ footer{
 }
 
 .regresar li{
-    margin-bottom: 1px;
+    margin-bottom: 1 px;
 }
 
 .regresar a{
     color: white;
     background-color: #333;
     text-decoration: none;
-    padding: 15px;
+    padding: 15 px;
     display: block;
 }
 
@@ -67,20 +66,20 @@ footer{
 background-color: #575757;
 }
 *{
-    margin: 0px;
-    padding: 5px;
+    margin: 0 px;
+    padding:  5 px;
 }
 
 #tituloP{
-    color:rgb(245, 245, 241);
+    color: rgb (245, 245, 241);
     font-family: Verdana;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 40 px;
 }
 
 nav{
-    width: 300px;
-    border: 0px solid black;
+    width: 300 px;
+    border: 0 px solid black;
 }
 
 .menu{
@@ -90,14 +89,14 @@ nav{
 }
 
 .menu li{
-    margin-bottom: 1px;
+    margin-bottom: 1 px;
 }
 
 .menu a{
     color: white;
     background-color: #333;
     text-decoration: none;
-    padding: 15px;
+    padding: 15 px;
     display: block;
 }
 
@@ -108,7 +107,7 @@ nav{
 footer{
     color: white;
     font-family: Verdana;
-    font-size: 10px;
+    font-size: 10 px;
     align-items: middle;
 }
 
@@ -120,14 +119,14 @@ footer{
 }
 
 .regresar li{
-    margin-bottom: 1px;
+    margin-bottom: 1 px;
 }
 
 .regresar a{
     color: white;
     background-color: #333;
     text-decoration: none;
-    padding: 15px;
+    padding: 15 px;
     display: block;
 }
 
@@ -135,20 +134,20 @@ footer{
 background-color: #575757;
 }
 *{
-    margin: 0px;
-    padding: 5px;
+    margin: 0 px;
+    padding: 5 px;
 }
 
 #tituloP{
-    color:rgb(245, 245, 241);
+    color:rgb (245, 245, 241);
     font-family: Verdana;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 40 px;
 }
 
 nav{
-    width: 300px;
-    border: 0px solid black;
+    width: 300 px;
+    border: 0 px solid black;
 }
 
 .menu{
@@ -158,14 +157,14 @@ nav{
 }
 
 .menu li{
-    margin-bottom: 1px;
+    margin-bottom: 1 px;
 }
 
 .menu a{
     color: white;
     background-color: #333;
     text-decoration: none;
-    padding: 15px;
+    padding: 15 px ;
     display: block;
 }
 
@@ -176,7 +175,7 @@ nav{
 footer{
     color: white;
     font-family: Verdana;
-    font-size: 10px;
+    font-size: 10 px;
     align-items: middle;
 }
 
@@ -188,14 +187,14 @@ footer{
 }
 
 .regresar li{
-    margin-bottom: 1px;
+    margin-bottom: 1 px;
 }
 
 .regresar a{
     color: white;
     background-color: #333;
     text-decoration: none;
-    padding: 15px;
+    padding: 15 px;
     display: block;
 }
 
@@ -203,20 +202,20 @@ footer{
 background-color: #575757;
 }
 *{
-    margin: 0px;
-    padding: 5px;
+    margin: 0 px;
+    padding: 5 px;
 }
 
 #tituloP{
-    color:rgb(245, 245, 241);
+    color:rgb (245, 245, 241);
     font-family: Verdana;
     font-weight: bold;
-    font-size: 40px;
+    font-size: 40 px;
 }
 
 nav{
-    width: 300px;
-    border: 0px solid black;
+    width: 300 px;
+    border: 0 px solid black;
 }
 
 .menu{
@@ -226,14 +225,14 @@ nav{
 }
 
 .menu li{
-    margin-bottom: 1px;
+    margin-bottom: 1 px;
 }
 
 .menu a{
     color: white;
     background-color: #333;
     text-decoration: none;
-    padding: 15px;
+    padding: 15 px;
     display: block;
 }
 
@@ -244,7 +243,7 @@ nav{
 footer{
     color: white;
     font-family: Verdana;
-    font-size: 10px;
+    font-size: 10 px;
     align-items: middle;
 }
 
@@ -256,14 +255,14 @@ footer{
 }
 
 .regresar li{
-    margin-bottom: 1px;
+    margin-bottom: 1 px;
 }
 
 .regresar a{
     color: white;
     background-color: #333;
     text-decoration: none;
-    padding: 15px;
+    padding: 15 px;
     display: block;
 }
 
